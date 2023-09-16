@@ -1,3 +1,9 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,discord)](https://skillicons.dev)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/NZodasic/langs)](https://githubtrends.io)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nzodasic&theme=darcula). ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nzodasic&theme=darcula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nzodasic&theme=darcula). ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nzodasic&theme=darcula)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nzodasic&theme=darcula&utcOffset=8)
