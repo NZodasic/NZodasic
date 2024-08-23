@@ -44,8 +44,8 @@
 <br/>
 
 # **<div align="center">🏆 GitHub Trophies 🏆</div>**
-![](https://github-trophies.vercel.app/?username=nzodasic&theme=flat&no-frame=false&no-bg=true&margin-w=4)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nzodasic&theme=transparent)
+![](https://github-trophies.vercel.app/?username=nzodasic&theme=flat&no-frame=false&no-bg=true&margin-w=4)
 
 # **<div align="center">🔥Github Stats🔥</div>**
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nzodasic&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nzodasic&theme=transparent)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nzodasic&theme=transparent)
 [![GitHub Streak](https://streak-stats.demolab.com?user=nzodasic&theme=tokyonight-duo&hide_border=true&border_radius=4.4&card_width=1000&card_height=200)](https://git.io/streak-stats)
