@@ -37,10 +37,6 @@
 </a>  
 </div>  
 
-# **<div align="center">Pu 💕</div>**
-<div align="center">
-	<img src="https://github.com/NZodasic/NZodasic/blob/main/result.png">
-</div>
 
 
 # **<div align="center">🔥Github Stats🔥</div>**
