@@ -1,6 +1,11 @@
 
-| My Skills | [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,firebase,laravel,mysql,nodejs,npm)](https://skillicons.dev)|
-
-:--: | :--:
-
-| My Stats | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nzodasic&theme=darcula) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nzodasic&theme=darcula&utcOffset=8)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nzodasic&theme=darcula)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nzodasic&theme=darcula)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nzodasic&theme=darcula)
+|         Usage         |                                                  Skill                                                   |
+| :-------------------: | :------------------------------------------------------------------------------------------------------: |
+| Programming Languages |       [![My Skills](https://skillicons.dev/icons?i=js,cpp,java,php,r,py)](https://skillicons.dev)        |
+| Frontend Development  |   [![My Skills](https://skillicons.dev/icons?i=tailwind,react,php,css,html,)](https://skillicons.dev)    |
+|  Backend Development  |          [![My Skills](https://skillicons.dev/icons?i=nodejs,firebase)](https://skillicons.dev)          |
+|         AI/ML         | [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv)](https://skillicons.dev) |
+|       Database        |           [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)            |
+|        Devops         |            [![My Skills](https://skillicons.dev/icons?i=docker,bash)](https://skillicons.dev)            |
+|       Framework       |       [![My Skills](https://skillicons.dev/icons?i=laravel,flask,fastapi)](https://skillicons.dev)       |
+|         Tool          | [![My Skills](https://skillicons.dev/icons?i=selenium,npm,anaconda,powershell)](https://skillicons.dev)  |
