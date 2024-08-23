@@ -42,7 +42,4 @@
 <br/>
 
 # **<div align="center">🔥Github Stats🔥</div>**
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nzodasic&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nzodasic&theme=transparent)| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nzodasic&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nzodasic&theme=transparent)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nzodasic&theme=transparent&utcOffset=8)
 [![GitHub Streak](https://streak-stats.demolab.com?user=nzodasic&theme=tokyonight-duo&hide_border=true&border_radius=4.4&card_width=1000&card_height=200)](https://git.io/streak-stats)
