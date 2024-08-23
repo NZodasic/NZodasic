@@ -9,3 +9,5 @@
 |        Devops         |            [![My Skills](https://skillicons.dev/icons?i=docker,bash)](https://skillicons.dev)            |
 |       Framework       |       [![My Skills](https://skillicons.dev/icons?i=laravel,flask,fastapi)](https://skillicons.dev)       |
 |         Tool          | [![My Skills](https://skillicons.dev/icons?i=selenium,npm,anaconda,powershell)](https://skillicons.dev)  |
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nzodasic&theme=merko&hide_border=true&border_radius=4.4&card_width=600)](https://git.io/streak-stats)
