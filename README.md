@@ -11,4 +11,3 @@
 |         Tool          | [![My Skills](https://skillicons.dev/icons?i=selenium,npm,anaconda,powershell)](https://skillicons.dev)  |
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nzodasic&theme=tokyonight-duo&hide_border=true&border_radius=4.4&card_width=1000&card_height=200)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=nzodasic&theme=tokyonight-duo&hide_border=true&border_radius=4.4&card_width=1200&card_height=200)](https://git.io/streak-stats)
