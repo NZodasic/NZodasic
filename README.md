@@ -10,7 +10,6 @@
 - A rising star in the world of AI, fueled by a relentless pursuit of knowledge and a dedication to making a positive impact  
   
 <br/>
-
 # **<div align="center">My Skill Set 💉</></div>**
 
 |         Usage         |                                                  Skill                                                   |
@@ -24,6 +23,8 @@
 |       Framework       |       [![My Skills](https://skillicons.dev/icons?i=laravel,flask,fastapi)](https://skillicons.dev)       |
 |         Tool          | [![My Skills](https://skillicons.dev/icons?i=selenium,npm,anaconda,powershell)](https://skillicons.dev)  |
 
+
+<br/>
 # **<div align="center"> Connect with me 💻</div>**
 <div align="center">
 <a href="https://github.com/nzodasic" target="_blank">
@@ -37,8 +38,7 @@
 </a>  
 </div>  
 
-
-
+<br/>
 # **<div align="center">🔥Github Stats🔥</div>**
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nzodasic&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nzodasic&theme=transparent)| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nzodasic&theme=transparent)
