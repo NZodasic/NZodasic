@@ -1,3 +1,17 @@
+# **<div align="center">About me 🧠</div>**  
+  
+
+- An ambitious UIT student, driven by a passion for Machine Learning and Deep Learning, exploring the frontiers of AI's potential  
+  
+
+- Eager to learn, code, and innovate, transforming theoretical knowledge into practical solutions. Committed to shaping the future of AI, one breakthrough at a time.  
+  
+
+- A rising star in the world of AI, fueled by a relentless pursuit of knowledge and a dedication to making a positive impact  
+  
+<br/>
+
+# **<div align="center">My Skill Set 💉</></div>**
 
 |         Usage         |                                                  Skill                                                   |
 | :-------------------: | :------------------------------------------------------------------------------------------------------: |
@@ -10,7 +24,27 @@
 |       Framework       |       [![My Skills](https://skillicons.dev/icons?i=laravel,flask,fastapi)](https://skillicons.dev)       |
 |         Tool          | [![My Skills](https://skillicons.dev/icons?i=selenium,npm,anaconda,powershell)](https://skillicons.dev)  |
 
+# **<div align="center"> Connect with me 💻</div>**
+<div align="center">
+<a href="https://github.com/nzodasic" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/zodasic" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/https://www.facebook.com/zodasic/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
-![Uploading result.png…]()
+# **<div align="center">Pu 💕</div>**
+<div align="center">
+	<img src="https://github.com/NZodasic/NZodasic/blob/main/result.png">
+</div>
 
+
+# **<div align="center">🔥Github Stats🔥</div>**
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nzodasic&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nzodasic&theme=transparent)| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nzodasic&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nzodasic&theme=transparent)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nzodasic&theme=transparent&utcOffset=8)
 [![GitHub Streak](https://streak-stats.demolab.com?user=nzodasic&theme=tokyonight-duo&hide_border=true&border_radius=4.4&card_width=1000&card_height=200)](https://git.io/streak-stats)
