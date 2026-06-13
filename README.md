@@ -1,13 +1,10 @@
 # **<div align="center">About me 🧠</div>**  
-  
 
-- An ambitious UIT student, driven by a passion for Machine Learning and Deep Learning, exploring the frontiers of AI's potential  
-  
+I am a Computer Science student at University of Information Technology, Vietnam National University Ho Chi Minh City with a strong interest in Machine Learning, Deep Learning, and Artificial Intelligence. My research focuses on Computer Vision, Model Optimization, Explainable AI (XAI), and Uncertainty Quantification.
 
-- Eager to learn, code, and innovate, transforming theoretical knowledge into practical solutions. Committed to shaping the future of AI, one breakthrough at a time.  
-  
+Currently, I investigate methods for improving the performance, robustness, and interpretability of machine learning models. My research particularly emphasizes uncertainty-aware Explainable AI, aiming to develop intelligent systems that are more reliable, transparent, and trustworthy for real-world deployment.
 
-- A rising star in the world of AI, fueled by a relentless pursuit of knowledge and a dedication to making a positive impact  
+Beyond academic research, I am the founder and lead developer of several Minecraft server projects. I specialize in designing high-performance, lightweight, and scalable plugin solutions, focusing on gameplay optimization, server stability, and enhanced player experiences. This hands-on development experience has strengthened my software engineering, system design, and problem-solving skills.
   
 <br/>
 
